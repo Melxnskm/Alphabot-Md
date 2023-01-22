@@ -8,12 +8,12 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'non', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'non': 'V12', // 👉 login non 
 }
 
 // setting 
@@ -31,23 +31,23 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
+global.botname = "🔱...𝑴𝑬𝑫𝑶..🐉" //namabot kalian
+global.ownername = "Shanks" //nama kalian
+global.myweb = "non" //bebas asal jan hapus
+global.youtube = "non" //bebas asal jan hapus
+global.myweb2 = "non" //bebas
+global.email = "mm0899701@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.premium = ['201016892396'] //premium user
+global.owner = ["201016892396", "201016892396"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "201016892396" // nomor wa kalian
+global.ownernomerr = "+201016892396" //nmr wa kalian
+global.thumbnail = "./image/😴🗿.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/medo.jpg" // foto donasi di folder image
+global.background_welcome = "nonnon" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
+global.packname = '© 🔱...𝑴𝑬𝑫𝑶..🐉' //sticker wm ubah
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
